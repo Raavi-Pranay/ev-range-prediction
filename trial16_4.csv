@@ -1,0 +1,22 @@
+manufacturer,model,version,fuel_date,odometer,trip_distance(km),quantity(kWh),fuel_type,tire_type,emmision,motor_way,country_roads,driving_style,consumption(kWh/100km),A/C,park_heating,avg_speed(km/h),ecr_deviation,fuel_note
+Volkswagen,Golf,e-Golf,0.610891204,75140,67,7.97,Electricity,Summer tires,2.3,0,1,Normal,11.9,0,0,45,-0.8,Restreichweite 100km = Total 167km
+Volkswagen,Golf,e-Golf,0.52755787,74977,106,12.29,Electricity,Summer tires,3.6,1,1,Moderate,11.6,0,0,52,-1.1,CCS St.Katarina Restreichweite 56km = Total 162km
+Volkswagen,Golf,e-Golf,0.485891204,74871,66,7.59,Electricity,Summer tires,2.28,0,1,Normal,11.5,0,0,44,-1.2,Restreichweite 105km = Total 171km
+Volkswagen,Golf,e-Golf,0.444224537,74805,99,11.48,Electricity,Summer tires,3.3,0,1,Moderate,11.6,0,0,41,-1.1,Restreichweite 72km = Total 171km
+Volkswagen,Golf,e-Golf,0.360891204,74706,112,12.76,Electricity,Summer tires,3.7,1,1,Moderate,11.4,0,0,40,-1.3,Restreichweite 50km = Total 162km
+Volkswagen,Golf,e-Golf,0.15255787,74594,13,1.67,Electricity,Summer tires,0.4,0,1,Normal,12.9,0,0,39,0.2,25.5°C
+Volkswagen,Golf,e-Golf,0.110891204,74581,79,8.45,Electricity,Summer tires,2.686,0,1,Moderate,10.7,0,0,43,-2,18.5°C
+Volkswagen,Golf,e-Golf,31.05.2021,74502,114,13.79,Electricity,Summer tires,3.75,1,1,Normal,12.1,0,0,57,-0.6,Restreichweite 34km = Total 148km
+Volkswagen,Golf,e-Golf,29.05.2021,74361,116,14.38,Electricity,Summer tires,3.8,1,1,Moderate,12.4,0,0,59,-0.3,CCS
+Volkswagen,Golf,e-Golf,28.05.2021,74219,145,16.96,Electricity,Summer tires,4.5,1,1,Moderate,11.7,0,0,55,-1,CCS Rastplatz Mumpf-Süd
+Volkswagen,Golf,e-Golf,27.05.2021,74074,41,4.75,Electricity,Summer tires,1.265,0,1,Normal,11.6,0,0,44,-1.1,16.5°C
+Volkswagen,Golf,e-Golf,26.05.2021,74033,137,16.02,Electricity,Summer tires,3.6,1,1,Normal,11.7,0,0,39,-1,Restreichweite 12km = Total 149km
+Volkswagen,Golf,e-Golf,24.05.2021,73874,61,7.14,Electricity,Summer tires,3,0,1,Moderate,11.7,0,0,39,-1,13.5°C
+Volkswagen,Golf,e-Golf,0.860196759,73697,79,8.37,Electricity,Summer tires,2.9,1,1,Moderate,10.6,0,0,42,-2.1,16°C
+Volkswagen,Golf,e-Golf,0.860196759,73618,55,6.93,Electricity,Summer tires,3.1,0,1,Moderate,12.6,0,0,36,-0.1,Gratisladung in Uniklinik Balgrist
+Volkswagen,Golf,e-Golf,0.818530093,73563,69,8.83,Electricity,Summer tires,4.56,0,1,Normal,12.8,0,0,45,0.1,Restreichweite 92km = Total 161km
+Volkswagen,Golf,e-Golf,0.776863426,73494,69,9.59,Electricity,Summer tires,4.12,0,1,Normal,13.9,0,0,43,1.2,Restreichweite 85km = Total 154km
+Volkswagen,Golf,e-Golf,0.735196759,73425,63,8.76,Electricity,Summer tires,1.98,0,1,Normal,13.9,0,0,36,1.2,11°C
+Volkswagen,Golf,e-Golf,0.610196759,73362,91,11.28,Electricity,Summer tires,2.85,0,1,Normal,12.4,0,0,44,-0.3,Restreichweite 70km = Total 161km
+Volkswagen,Golf,e-Golf,0.485196759,73271,103,12.26,Electricity,Summer tires,4.1,0,1,Normal,11.9,0,0,42,-0.8,12°C
+Volkswagen,Golf,e-Golf,0.401863426,73168,112,11.87,Electricity,Summer tires,3.97,1,1,Moderate,10.6,0,0,53,-2.1,21°C
