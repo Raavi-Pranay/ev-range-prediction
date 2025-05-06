@@ -1,7 +1,6 @@
 
-# ML Model Comparison: Logistic Regression vs Decision Tree
-
-This project explores and compares the performance of two classification algorithms — Logistic Regression and Decision Tree — on a given dataset. It includes data preprocessing, model training, evaluation, and visualization.
+# EV Range Prediction & Visualization of Pollution Meter 
+This project explores and compares the performance of two classification algorithms — Logistic Regression and Decision Tree — on a given dataset of EV Range and pollution emissions. It includes data preprocessing, model training, evaluation, and visualization.
 
 ## 📁 Files
 
